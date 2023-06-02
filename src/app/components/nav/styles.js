@@ -61,7 +61,7 @@ export const Container = styled.nav `
                     font-weight: 700;
                     font-size: 14px;
                     line-height: 18px;
-                    color: #000000;
+                    color: white;
                 }
 
                 .exitpage {
